@@ -1,0 +1,21 @@
+html {
+  background-image: url(img/BG4.jpg);
+  background-size: cover;
+}
+
+body {
+  margin: 25px auto;
+  padding: 50px;
+  width: 400px;
+  background-color: rgb(255, 255, 255);
+  background-image: url(img/BodyBG.jpg);
+  background-size: cover;
+}
+
+.hiddenIMG {
+  color: black;
+}
+
+img {
+  width: 200px;
+}
